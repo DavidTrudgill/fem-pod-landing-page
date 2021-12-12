@@ -1,0 +1,15 @@
+Desktop and tablet:
+
+Use multiple background images for image and black background.
+
+Use correct positioning for logo and pattern svg
+
+create a container for call to action section and use flexbox for socials svgs at the bottom
+
+Mobile:
+
+Use correct background blend mode for image
+
+
+Things I've learned:
+

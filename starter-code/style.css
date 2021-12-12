@@ -1,0 +1,41 @@
+font-family: 'Chivo', sans-serif;
+
+/* ----reset---- */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* custom variables */
+
+:root{
+    --white: hsl(0, 0%, 100%);
+    --pale-grey: hsl(225, 40%, 83%);
+    --mid-grey: hsl(225, 21%, 45%);
+    --dark-grey: hsl(225, 26%, 23%);
+    --black: hsl(224, 35%, 11%);
+    --green: hsl(157, 74%, 62%);
+
+    --chivo-font: font-family: 'Chivo', sans-serif;
+
+    --font-size-sml: 0.75rem;
+    --font-size-med: 0.875rem;
+    --font-size-lge: 1.125rem;
+    --font-size-xlge: 3.25rem;
+
+    --font-weight-light: 300;
+    --font-weight-reg: 400;
+    --font-weight-bold: 700;
+
+    --line-height-sml: 1.75rem;
+    --line-height-lge: 3.875rem;
+}
+
+
+
+/* background image */
+body {
+    background-image: ;
+}
